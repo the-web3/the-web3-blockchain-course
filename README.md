@@ -6,3 +6,5 @@
 
 ### 第二部：钱包教程课件
 
+#### 1.[区块链钱包课件](https://github.com/the-web3/blockchain-wallet/blob/master/chapter/readme.md)
+#### 2.区块链钱包项目实战
