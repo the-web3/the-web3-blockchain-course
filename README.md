@@ -1,5 +1,7 @@
 # the web3 区块链培训教程中文版课件
 
+## The Web3官网链接：[ https://theweb3dao.com/](https://theweb3dao.com/)
+
 ### 第一部分：课程大纲模块
 
 #### 1.[区块链培训课程大纲](https://github.com/the-web3/course-outline/blob/main/README.md)
